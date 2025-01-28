@@ -15,3 +15,5 @@ Step 2: Open the terminal and run the command `yarn` to install the dependencies
 Step 3: Run the command `yarn start` to start the development server
 
 The server runs in the [http://localhost:3000](http://localhost:3000) address.
+
+Credential: Username: Carlos, Password: 1234
