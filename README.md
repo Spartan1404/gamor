@@ -9,7 +9,9 @@ Version of Node.js used v20.11.1
 ## Instructions to run the project
 
 Step 1: Clone this repository into your local machine.
+
 Step 2: Open the terminal and run the command `yarn` to install the dependencies.
+
 Step 3: Run the command `yarn start` to start the development server
 
 The server runs in the [http://localhost:3000](http://localhost:3000) address.
