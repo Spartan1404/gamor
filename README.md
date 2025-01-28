@@ -1,5 +1,7 @@
 # Getting Started
 
+Gamor streaming platform frontend created with React.js with no UI libraries and no third party dependencies
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Package manager used: Yarn, version v1.22.21
