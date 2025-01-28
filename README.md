@@ -1,7 +1,9 @@
 # Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Package manager used: Yarn, version v1.22.21
+
 Version of Node.js used v20.11.1
 
 ## Instructions to run the project
