@@ -8,6 +8,8 @@ Package manager used: Yarn, version v1.22.21
 
 Version of Node.js used v20.11.1
 
+[Reference layout](https://drive.google.com/file/d/1_RPQeGxUP47BMAnmbRkXpCUj1xkwNxIV/view?usp=sharing)
+
 ## Instructions to run the project
 
 Step 1: Clone this repository into your local machine.
