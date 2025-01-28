@@ -1,6 +1,6 @@
 import ThemeChangeBtn from "./ThemeChangeBtn";
 import Header from "./Header";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { useSession } from "./Context/session/use-session";
 import { useEffect, useState } from "react";
 
